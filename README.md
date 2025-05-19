@@ -60,3 +60,4 @@ Training leveraged **Hugging Face’s `Trainer` API**, optimized with the follow
 ## 📌 Conclusion
 
 This project offers a robust and computationally efficient backbone for intent classification in multilingual settings. By combining the **cross-lingual power of XLM-RoBERTa** with **fine-tuned task performance**, it sets a solid foundation for building scalable and accurate natural language understanding systems.
+
